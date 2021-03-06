@@ -4,6 +4,10 @@ from typing import List, Union
 import printutils
 import sys
 
+# to whoever is grading my HW6 submission for ES2501, I apologize in advance for the spaghetti code you're about to read.
+# by the time I realized I needed to change the architecture of the solver, it was too late, so a lot of it is hacked
+# together.
+
 # this code is messy and needs to be refactored.
 # todo clean this up
 
